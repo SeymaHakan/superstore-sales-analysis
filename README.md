@@ -24,5 +24,4 @@ Superstore Sales Dataset
 A Tableau dashboard was created to visualize key insights from the dataset.
 
 ## Dashboard Preview
-
-![Dashboard](dashboard.png)
+SuperstoreSales_Dahboard.png
