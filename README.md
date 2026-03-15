@@ -17,7 +17,7 @@ Superstore Sales Dataset
 * Sales by category
 * Sales by region
 * Top customers
-* Shipping mode analysis
+* Ship mode analysis
 
 ## Dashboard
 
