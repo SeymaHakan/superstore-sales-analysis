@@ -1,12 +1,12 @@
 # Superstore Sales Analysis
 
-Project Overview
+# Project Overview
 
-This project analyzes the Supermarket Sales dataset to uncover key insights into sales performance, regional trends, and profitability. The analysis includes data cleaning, exploratory data analysis (EDA), and interactive dashboard visualization.
+This project analyzes the Superstore Sales dataset to uncover key insights about sales performance, regional trends, and profitability. The analysis includes data cleaning, exploratory data analysis (EDA), and interactive dashboard visualization.
 
 The goal is to transform raw sales data into actionable business insights that can support data-driven decision-making.
 
-Dataset
+# Dataset
 
 The dataset used in this project is the Supermarket Sales dataset, commonly used in business analytics and data visualization applications.
 
@@ -26,7 +26,7 @@ Ship mode
 
 Regions and cities
 
-Tools Used
+# Tools Used
 
 SQL (MySQL) – Data cleaning and exploratory data analysis
 
@@ -34,7 +34,7 @@ Tableau – Interactive dashboard visualization
 
 Excel / CSV Dataset
 
-Data Cleaning
+# Data Cleaning
 
 The following data cleaning steps were performed:
 
@@ -48,12 +48,12 @@ Column names were standardized
 
 Data consistency was verified
 
-Example SQL used:
+# Example SQL used:
 
 ROW_NUMBER() OVER (
 PARTITION BY Ship_Mode, Segment, Country, City, State, Postal_Code, Region, Category, Sub_Category, Sales, Quantity, Discount, Profit
 )
-Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 Key business questions examined:
 
@@ -65,7 +65,7 @@ Which city generates the highest sales?
 
 How do discounts affect profitability?
 
-Key Findings
+# Key insights
 
 Some findings from the analysis:
 
@@ -77,7 +77,7 @@ New York City has the highest sales among all cities.
 
 Higher discounts are generally associated with lower profitability.
 
-Tableau Dashboard
+# Tableau Dashboard
 
 The interactive dashboard visualizes key metrics including:
 
@@ -93,9 +93,7 @@ Discount Impact
 
 Dashboard Preview:
 
-Interactive Tableau Dashboard:
-
-(Insert Tableau Public link here)
+# Interactive Tableau Dashboard:
 
 https://public.tableau.com/app/profile/.eyma.hakan/viz/superstore_sales_dashboard_17736049391320/SuperstoreSalesProfitPerformanceAnalysis?publish=yes&showOnboarding=true
 
@@ -104,7 +102,7 @@ Author
 Şeyma Hakan
 Data Analyst Candidate
 
-Skills:
+# Skills:
 
 SQL
 
@@ -116,7 +114,7 @@ Tableau
 
 Power BI
 
-LinkedIn:
+# LinkedIn:
 
 www.linkedin.com/in/şeyma-hakan-4b84b3205
 
