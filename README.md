@@ -4,9 +4,9 @@ This project analyzes Superstore sales data using SQL and visualizes insights wi
 
 ## Tools
 
-* MySQL
-* SQL
-* Tableau
+ MySQL
+ SQL
+Tableau
 
 ## Dataset
 
@@ -14,10 +14,10 @@ Superstore Sales Dataset
 
 ## Analysis
 
-* Sales by category
-* Sales by region
-* Top customers
-* Ship mode analysis
+Technology category generated the highest total sales.
+West region had the highest revenue.
+New York city produced the highest sales among all cities.
+High discount levels are often associated with lower profits.
 
 ## Dashboard
 
