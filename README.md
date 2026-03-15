@@ -23,5 +23,8 @@ Superstore Sales Dataset
 
 A Tableau dashboard was created to visualize key insights from the dataset.
 
+Link: 
+https://public.tableau.com/app/profile/.eyma.hakan/viz/superstore_sales_dashboard_17736049391320/SuperstoreSalesProfitPerformanceAnalysis?publish=yes&showOnboarding=true
+
 ## Dashboard Preview
 
