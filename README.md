@@ -15,8 +15,11 @@ Superstore Sales Dataset
 ## Analysis
 
 Technology category generated the highest total sales.
+
 West region had the highest revenue.
+
 New York city produced the highest sales among all cities.
+
 High discount levels are often associated with lower profits.
 
 ## Dashboard
