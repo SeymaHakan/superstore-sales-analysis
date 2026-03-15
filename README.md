@@ -4,8 +4,10 @@ This project analyzes Superstore sales data using SQL and visualizes insights wi
 
 ## Tools
 
- MySQL
- SQL
+MySQL
+
+SQL
+
 Tableau
 
 ## Dataset
